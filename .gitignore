@@ -1,0 +1,16 @@
+# Ignore environment variables
+.env
+
+# Ignore API keys or secrets
+*.key
+*.pem
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Node.js (if applicable)
+node_modules/
+
+# macOS system files
+.DS_Store
